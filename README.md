@@ -56,4 +56,3 @@ This is the backend service for the Word Up application. The backend is built wi
 ## Notes
 
 - Ensure that the `.env` file is properly configured with your API keys before running the server.
-# word-up-backend
